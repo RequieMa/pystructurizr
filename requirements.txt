@@ -5,4 +5,5 @@ aiofiles
 httpwatcher
 google-cloud-storage
 boto3
-setuptools
+setuptools>=64
+tornado>=6.4
